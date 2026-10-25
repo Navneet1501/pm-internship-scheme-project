@@ -70,4 +70,4 @@ The project can be run locally for a demonstration. Start the backend first, the
 
 ## Project status
 
-ALGNITE is an educational prototype based on a proposed smart-allocation approach for the PM Internship Scheme. It is not an official government service and is not intended for real applicant selection.
+ALGNITE is an educational prototype based on a proposed smart-allocation approach for the PM Internship Scheme. 
