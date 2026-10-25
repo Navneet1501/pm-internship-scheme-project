@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+faker
+xgboost
+shap
+pandas
+numpy
